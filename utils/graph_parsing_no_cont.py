@@ -136,7 +136,7 @@ def parse_file(filepath):
     #find class Solution
     solution_node = None
     inside_solution = False
-    # stack for blocks
+    #stack for blocks
     #one main stack, top of which is the current parent node
     stack = []
     
